@@ -1,6 +1,6 @@
-[![](https://capsule-render.vercel.app/api?type=waving&color=673AB7&height=225&section=header&text=dohun0310&fontColor=FFFFFF&fontAlign=24&fontAlignY=35&desc=d3h1,%20everything%20of%20Everything&descSize=20&descAlign=20&descAlignY=58)](https://github.com/dohun0310)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=673AB7&height=225&section=header&text=dohun0310&fontColor=FFFFFF&fontAlign=24&fontAlignY=35&desc=d3h1,%20everything%20of%20Everything&descSize=20&descAlign=20&descAlignY=58)](https://github.com/dohun0310)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=dohun0310&count_private=true&show_icons=true&title_color=673AB7&icon_color=673AB7)](https://github.com/dohun0310)
+[![Stats](https://github-readme-stats.vercel.app/api?username=dohun0310&count_private=true&show_icons=true&title_color=673AB7&icon_color=673AB7)](https://github.com/dohun0310?tab=repositories)
 
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=dohun0310)](https://solved.ac/dohun0310)
 

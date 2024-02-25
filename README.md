@@ -4,7 +4,7 @@
 
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=dohun0310)](https://solved.ac/dohun0310)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dohun0310&count_bg=%239576FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/dohun0310)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dohun0310&count_bg=%239576FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/dohun0310) [![committers.top badge](https://user-badge.committers.top/south_korea/dohun0310.svg)](https://user-badge.committers.top/south_korea/dohun0310)
 
 [![Footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=673AB7)](https://github.com/dohun0310)
 

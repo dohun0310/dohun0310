@@ -25,7 +25,7 @@
  - Laptop: Apple MacBook Pro 16-in. (M2 Pro, 2023)
  - Phone: Google Pixel 6 Pro, Apple iPhone 13 mini
  - Tablet: Apple iPad Pro 12.9‑inch (6th generation)
- - Watch: Galaxy Watch Active2 (44mm)
+ - Watch: Samsung Galaxy Watch Active2 (44mm)
  - Audio: Apple AirPods Pro (2nd generation), Samsung Galaxy Buds2 Pro, Sony WH-1000XM5
 
 ## 🌟 Services

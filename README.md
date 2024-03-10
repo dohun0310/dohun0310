@@ -48,7 +48,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dohun0310) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=4640599380994255114) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/ua/developer/id1724103669)
 
 ## 📊 Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=dohun0310&count_private=true&show_icons=true&title_color=673AB7&icon_color=673AB7)](https://github.com/dohun0310?tab=repositories) [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=dohun0310)](https://solved.ac/dohun0310)
+[![Stats](https://github-readme-stats.vercel.app/api?username=dohun0310&theme=github_dark&count_private=true&show_icons=true&title_color=673AB7&icon_color=673AB7)](https://github.com/dohun0310?tab=repositories) [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=dohun0310)](https://solved.ac/dohun0310)
 
 <!---
 

@@ -1,8 +1,7 @@
 [![logo](https://github.com/dohun0310/dohun0310/assets/63141348/bc06e26e-4c43-4eab-bde5-9f0db4bae5de)](https://github.com/dohun0310/dohun0310)
 
 ## Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dohun0310&&count_bg=%234C37E2&title_bg=%23121011&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)
-](https://github.com/dohun0310)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dohun0310&&count_bg=%234C37E2&title_bg=%23121011&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://github.com/dohun0310)
  - I am a student in South Korea and am interested in various development fields.
  - Everyone's code works flawlessly.
 
@@ -21,11 +20,11 @@
 
 ## 💻 My Devices
  - Desktop: AMD Ryzen™ 7 3700X + GIGABYTE GeForce RTX™ 2070 GAMING OC 8G (rev. 1.0)
- - Laptop: Apple MacBook Pro 16-in. (M2 Pro, 2023)
+ - Laptop: Apple MacBook Pro 16-inch (M2 Pro, 2023)
  - Phone: Google Pixel 6 Pro, Apple iPhone 13 mini
- - Tablet: Apple iPad Pro 12.9‑inch (6th generation)
- - Watch: Samsung Galaxy Watch Active2 (44mm)
- - Audio: Apple AirPods Pro (2nd generation), Samsung Galaxy Buds2 Pro, Sony WH-1000XM5
+ - Tablet: Apple iPad Pro 12.9‑inch (6th generation, Wi-Fi)
+ - Watch: Samsung Galaxy Watch Active2 (44mm, Bluetooth)
+ - Audio: Apple AirPods Pro (2nd generation) with MagSafe Charging Case (USB‑C), Samsung Galaxy Buds2 Pro, Sony WH-1000XM5
 
 ## 🌟 Services
 ### d3h1 Blog

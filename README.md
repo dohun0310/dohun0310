@@ -1,5 +1,4 @@
-![logo](https://github.com/dohun0310/dohun0310/assets/63141348/b156b93c-921c-4762-b394-e859416cb038)
-
+[![logo](https://github.com/dohun0310/dohun0310/assets/63141348/bc06e26e-4c43-4eab-bde5-9f0db4bae5de)](https://github.com/dohun0310/dohun0310)
 
 ## Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dohun0310&count_bg=%239576FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)

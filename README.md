@@ -12,7 +12,7 @@
 ### 👩‍💻 IDE
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com) [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea) [![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)](https://developer.android.com/studio) [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/kr/xcode) [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org)
 
-#### ☁ Deploy
+### ☁ Deploy
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com) [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://oracle.com) [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://www.jenkins.io)
 
 ### ⌨️ Terminal
@@ -22,7 +22,7 @@
  - Laptop: Apple MacBook Pro 16-inch (M2 Pro, 2023)
  - Phone: Google Pixel 6 Pro, Apple iPhone 13 mini
  - Tablet: Apple iPad Pro 12.9‑inch (6th generation, Wi-Fi)
- - Watch: Samsung Galaxy Watch Active2 (44mm, Bluetooth)
+ - Watch: Apple Apple Watch Series 9 (44mm, GPS + Cellular), Samsung Galaxy Watch Active2 (44mm, Bluetooth)
  - Audio: Apple AirPods Pro (2nd generation) with MagSafe Charging Case (USB‑C), Samsung Galaxy Buds2 Pro, Sony WH-1000XM5
 
 ## 🌟 Services

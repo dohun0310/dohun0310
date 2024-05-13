@@ -45,10 +45,13 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dohun0310) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=4640599380994255114) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/ua/developer/id1724103669)
 
 ## 📊 Stats
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=dohun0310&theme=github_dark&count_private=true&show_icons=true&title_color=673AB7&icon_color=673AB7)](https://github.com/dohun0310?tab=repositories)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dohun0310&theme=github_dark&border=E4E2E2&stroke=E4E2E2&ring=673AB7&currStreakNum=673AB7&sideNums=673AB7&dates=E4E2E2)](https://github.com/dohun0310)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dohun0310)](https://solved.ac/dohun0310)
+
 [![solved.ac Streak](http://mazandi.herokuapp.com/api?handle=dohun0310&theme=dark)](https://solved.ac/dohun0310)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=dohun0310&theme=github_dark&count_private=true&show_icons=true&title_color=673AB7&icon_color=673AB7)](https://github.com/dohun0310?tab=repositories)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dohun0310&theme=github_dark&border=E4E2E2&stroke=E4E2E2&ring=673AB7&currStreakNum=673AB7&sideNums=673AB7&dates=E4E2E2)](https://github.com/dohun0310)
 
 <!---
 

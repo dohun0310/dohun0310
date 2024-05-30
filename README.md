@@ -47,7 +47,7 @@
 ## 📊 Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dohun0310)](https://solved.ac/dohun0310)
 
-[![solved.ac Streak](http://mazandi.herokuapp.com/api?handle=dohun0310&theme=dark)](https://solved.ac/dohun0310)
+[![solved.ac Streak](http://mazandi.herokuapp.com/api?handle=dohun0310&theme=dark)](https://solved.ac/profile/dohun0310/solved)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=dohun0310&theme=github_dark&count_private=true&show_icons=true&title_color=673AB7&icon_color=673AB7)](https://github.com/dohun0310?tab=repositories)
 

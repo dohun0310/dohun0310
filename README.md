@@ -22,7 +22,7 @@
  - Laptop: Apple MacBook Pro 16-inch (M2 Pro, 2023)
  - Phone: Samsung Galaxy S24 Ultra, Apple iPhone 13 mini, Google Pixel 6 Pro
  - Tablet: Apple iPad Pro 12.9‑inch (6th generation, Wi-Fi)
- - Watch: Apple Apple Watch Series 6 (44mm, GPS + Cellular), Samsung Galaxy Watch Active2 (44mm, Bluetooth)
+ - Watch: Apple Apple Watch Series 7 (45mm, GPS + Cellular), Samsung Galaxy Watch Active2 (44mm, Bluetooth)
  - Audio: Apple AirPods Pro (2nd generation) with MagSafe Charging Case (USB‑C), Sony WH-1000XM5
 
 ## 🌟 Services

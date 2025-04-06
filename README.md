@@ -21,9 +21,9 @@
 ## 💻 My Devices
  - Desktop: AMD Ryzen™ 7 5800X3D + GIGABYTE GeForce RTX™ 2070 GAMING OC 8G (rev. 1.0)
  - Laptop: Apple MacBook Pro 16-inch (M2 Pro, 2023)
- - Phone: Samsung Galaxy S24 Ultra, Apple iPhone 16
+ - Phone: Google Pixel 8 Pro, Apple iPhone 16
  - Tablet: Apple iPad Pro 12.9‑inch (6th generation, Wi-Fi)
- - Watch: Apple Apple Watch Series 10 (46mm, GPS), Google Pixel Watch 3 (45mm, Wi-Fi)
+ - Watch: Google Pixel Watch 3 (45mm, Wi-Fi), Apple Apple Watch Series 10 (46mm, GPS)
  - Audio: Apple AirPods Pro (2nd generation) with MagSafe Charging Case (USB‑C)
 
 ## 🌟 Services

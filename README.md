@@ -1,7 +1,7 @@
 [![logo](https://github.com/dohun0310/dohun0310/assets/63141348/bc06e26e-4c43-4eab-bde5-9f0db4bae5de)](https://github.com/dohun0310/dohun0310)
 
 ## Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dohun0310&&count_bg=%234C37E2&title_bg=%23121011&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://github.com/dohun0310)
+[![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdohun0310&label=hits&icon=github&color=%234c37e2)](https://github.com/dohun0310)
  - I am a student in South Korea and am interested in various development fields.
  - I enjoy learning new programming languages and tools, and I’m always looking for opportunities to improve my skills.
 

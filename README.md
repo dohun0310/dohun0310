@@ -19,7 +19,7 @@
 [![zsh](https://img.shields.io/badge/Zsh-F15A24.svg?style=for-the-badge&logo=Zsh&logoColor=white)](https://www.zsh.org) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=Yarn&logoColor=white)](https://yarnpkg.com) [![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)](https://iterm2.com) [![Termius](https://img.shields.io/badge/Termius-000000.svg?style=for-the-badge&logo=Termius&logoColor=white)](https://termius.com)
 
 ## 💻 My Devices
- - Desktop: AMD Ryzen™ 7 5800X3D + GIGABYTE GeForce RTX™ 2070 GAMING OC 8G (rev. 1.0)
+ - Desktop: AMD Ryzen™ 9 9900X + NVIDIA RTX PRO 4000 Blackwell
  - Laptop: Apple MacBook Pro 16-inch (M5 Pro)
  - Phone: Google Pixel 8 Pro, Apple iPhone 17
  - Tablet: Apple iPad Pro 12.9‑inch (6th generation, Wi-Fi)

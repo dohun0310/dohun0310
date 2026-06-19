@@ -21,10 +21,10 @@
 ## 💻 My Devices
  - Desktop: AMD Ryzen™ 9 9900X + NVIDIA RTX PRO 4000 Blackwell
  - Laptop: Apple MacBook Pro 16-inch (M5 Pro)
- - Phone: Google Pixel 8 Pro, Apple iPhone 17
+ - Phone: Samsung Galaxy S26 Ultra, Apple iPhone 17
  - Tablet: Apple iPad Pro 12.9‑inch (6th generation, Wi-Fi)
  - Watch: Google Pixel Watch 3 (45mm, Wi-Fi), Apple Watch Series 10 (46mm, GPS)
- - Audio: Apple AirPods Pro (3nd generation)
+ - Audio: Apple AirPods Pro (3nd generation), Sony WH-1000XM6
 
 ## 🌟 Services
 ### d3h1 Blog

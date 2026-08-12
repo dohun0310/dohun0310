@@ -49,7 +49,7 @@
 
 [![Github Stats](https://github-stats-extended.vercel.app/api?username=dohun0310&theme=github_dark&count_private=true&show_icons=true&title_color=673AB7&icon_color=673AB7&border_color=252A32)](https://github.com/dohun0310?tab=repositories)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dohun0310&theme=github_dark&border=E4E2E2&stroke=E4E2E2&ring=673AB7&currStreakNum=673AB7&sideNums=673AB7&dates=E4E2E2)](https://github.com/dohun0310)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dohun0310&theme=github-dark&timezone=Asia/Seoul&background=0E1116&border=252A32&stroke=252A32&ring=673AB7&dates=9CA6B3)](https://github.com/dohun0310)
 
 <!---
 

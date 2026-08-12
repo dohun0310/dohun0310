@@ -47,7 +47,7 @@
 
 [![solved.ac Streak](http://mazandi.herokuapp.com/api?handle=dohun0310&theme=dark)](https://solved.ac/profile/dohun0310/solved)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=dohun0310&theme=github_dark&count_private=true&show_icons=true&title_color=673AB7&icon_color=673AB7)](https://github.com/dohun0310?tab=repositories)
+[![Github Stats](https://github-stats-extended.vercel.app/api?username=dohun0310&theme=github_dark&count_private=true&show_icons=true&title_color=673AB7&icon_color=673AB7&border_color=252A32)](https://github.com/dohun0310?tab=repositories)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dohun0310&theme=github_dark&border=E4E2E2&stroke=E4E2E2&ring=673AB7&currStreakNum=673AB7&sideNums=673AB7&dates=E4E2E2)](https://github.com/dohun0310)
 
